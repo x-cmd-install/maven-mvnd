@@ -1,0 +1,62 @@
+about:
+  description:
+  |
+    Apache Maven Daemon
+  license: Apache-2.0
+  homepage: https://maven.apache.org/
+  head: a6b032e
+  archived: false
+  latestVersion: 1.0.6
+  collectedAt: 2026-09-04T04:56:41Z
+timeline:
+  created: 2019-09-21
+  lastCommit: 2026-09-03
+  lastRelease: 2026-05-30
+popularity:
+  star: 3456
+  watcher: 55
+  fork: 251
+  release: 45
+  contributor: 110
+  pullRequest: 221
+  issue: 592
+language:
+  Java: 754991
+  Shell: 36086
+  C: 13368
+  Makefile: 8550
+  Groovy: 843
+totalBytes: 813838
+recent:
+  last30d:
+    since: 2026-08-05
+    release: 0
+    mergedPR: 33
+    openPR: 3
+    closedIssue: 0
+    openIssue: 0
+    commit: 21
+  last90d:
+    since: 2026-06-06
+    release: 0
+    mergedPR: 97
+    openPR: 7
+    closedIssue: 1
+    openIssue: 0
+    commit: 66
+  last180d:
+    since: 2026-03-08
+    release: 3
+    mergedPR: 146
+    openPR: 13
+    closedIssue: 3
+    openIssue: 3
+    commit: 97
+  last360d:
+    since: 2025-09-09
+    release: 4
+    mergedPR: 242
+    openPR: 14
+    closedIssue: 8
+    openIssue: 15
+    commit: 146
