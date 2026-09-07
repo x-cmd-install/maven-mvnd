@@ -2,21 +2,21 @@ about:
   description: "Apache Maven Daemon"
   license: Apache-2.0
   homepage: https://maven.apache.org/
-  head: 3d328d3
+  head: eb1bdac
   archived: false
   latestVersion: "1.0.6"
-  collectedAt: 2026-09-07T04:43:01Z
+  collectedAt: 2026-09-07T19:48:04Z
 timeline:
   created: 2019-09-21
-  lastCommit: 2026-09-05
+  lastCommit: 2026-09-07
   lastRelease: 2026-05-30
 popularity:
-  star: 3457
+  star: 3458
   watcher: 56
   fork: 250
   release: 45
   contributor: 75
-  pullRequest: 1157
+  pullRequest: 1161
   issue: 592
 language:
   Java: 754991
@@ -29,61 +29,61 @@ recent:
   last30d:
     since: 2026-08-08
     release: 0
-    mergedPR: 34
+    mergedPR: 37
     openPR: 2
     closedIssue: 0
     openIssue: 0
-    commit: 19
+    commit: 21
   last60d:
     since: 2026-07-09
     release: 0
-    mergedPR: 61
+    mergedPR: 64
     openPR: 4
     closedIssue: 0
     openIssue: 0
-    commit: 46
+    commit: 48
   last90d:
     since: 2026-06-09
     release: 0
-    mergedPR: 97
+    mergedPR: 100
     openPR: 6
     closedIssue: 1
     openIssue: 0
-    commit: 63
+    commit: 65
   last180d:
     since: 2026-03-11
     release: 3
-    mergedPR: 146
+    mergedPR: 149
     openPR: 12
     closedIssue: 3
     openIssue: 3
-    commit: 95
+    commit: 97
   last360d:
     since: 2025-09-12
     release: 4
-    mergedPR: 235
+    mergedPR: 238
     openPR: 13
     closedIssue: 8
     openIssue: 15
-    commit: 142
+    commit: 144
   last720d:
     since: 2024-09-17
     release: 6
-    mergedPR: 421
+    mergedPR: 424
     openPR: 14
     closedIssue: 41
     openIssue: 31
-    commit: 281
+    commit: 283
 total:
   release: 45
-  mergedPR: 935
+  mergedPR: 938
   openPR: 14
   closedIssue: 462
   openIssue: 130
-  commit: 1493
+  commit: 1495
 ---
 path: /home/runner/.x-repo/github.com/apache/maven-mvnd
-collectedAt: 2026-09-07T04:43:03Z
+collectedAt: 2026-09-07T19:48:05Z
 loc:
   Java:
     code: 14536
@@ -303,7 +303,7 @@ checks:
       - 'Warn: 0 commits out of 30 are checked with a SAST tool'
 ---
 eget:
-  collectedAt: 2026-09-07T04:43:04+00:00
+  collectedAt: 2026-09-07T19:48:06+00:00
   platform:
     darwin/arm64:
       name:  maven-mvnd-1.0.6-darwin-aarch64.zip
