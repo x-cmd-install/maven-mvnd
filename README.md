@@ -23,23 +23,39 @@ x install maven-mvnd
 - **Latest**: `1.0.6` (2026-05-30)
 - **Last commit**: 2026-09-08
 - **Assets in release**: 12
-- **Published**: 2026-05-30T11:14:14Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [maven-mvnd-1.0.6-darwin-aarch64.tar.gz](https://github.com/apache/maven-mvnd/releases/download/1.0.6/maven-mvnd-1.0.6-darwin-aarch64.tar.gz) | 22.5 MiB | `native/darwin/arm64` |
+| [maven-mvnd-1.0.6-darwin-aarch64.zip](https://github.com/apache/maven-mvnd/releases/download/1.0.6/maven-mvnd-1.0.6-darwin-aarch64.zip) | 22.6 MiB | `native/darwin/arm64` |
+| [maven-mvnd-1.0.6-darwin-amd64.tar.gz](https://github.com/apache/maven-mvnd/releases/download/1.0.6/maven-mvnd-1.0.6-darwin-amd64.tar.gz) | 22.4 MiB | `native/darwin/x64` |
+| [maven-mvnd-1.0.6-darwin-amd64.zip](https://github.com/apache/maven-mvnd/releases/download/1.0.6/maven-mvnd-1.0.6-darwin-amd64.zip) | 22.5 MiB | `native/darwin/x64` |
+| [maven-mvnd-1.0.6-linux-aarch64.tar.gz](https://github.com/apache/maven-mvnd/releases/download/1.0.6/maven-mvnd-1.0.6-linux-aarch64.tar.gz) | 23.0 MiB | `native/linux/arm64` |
+| [maven-mvnd-1.0.6-linux-aarch64.zip](https://github.com/apache/maven-mvnd/releases/download/1.0.6/maven-mvnd-1.0.6-linux-aarch64.zip) | 23.0 MiB | `native/linux/arm64` |
+| [maven-mvnd-1.0.6-linux-amd64.tar.gz](https://github.com/apache/maven-mvnd/releases/download/1.0.6/maven-mvnd-1.0.6-linux-amd64.tar.gz) | 23.2 MiB | `native/linux/x64` |
+| [maven-mvnd-1.0.6-linux-amd64.zip](https://github.com/apache/maven-mvnd/releases/download/1.0.6/maven-mvnd-1.0.6-linux-amd64.zip) | 23.2 MiB | `native/linux/x64` |
+| [maven-mvnd-1.0.6-src.tar.gz](https://github.com/apache/maven-mvnd/releases/download/1.0.6/maven-mvnd-1.0.6-src.tar.gz) | 377.0 KiB | `native/unknown` |
+| [maven-mvnd-1.0.6-src.zip](https://github.com/apache/maven-mvnd/releases/download/1.0.6/maven-mvnd-1.0.6-src.zip) | 811.5 KiB | `other` |
+| [maven-mvnd-1.0.6-windows-amd64.tar.gz](https://github.com/apache/maven-mvnd/releases/download/1.0.6/maven-mvnd-1.0.6-windows-amd64.tar.gz) | 22.8 MiB | `native/win/x64` |
+| [maven-mvnd-1.0.6-windows-amd64.zip](https://github.com/apache/maven-mvnd/releases/download/1.0.6/maven-mvnd-1.0.6-windows-amd64.zip) | 22.9 MiB | `native/win/x64` |
 
 ## Popularity
 
-- **Stars**: 3,457 · **Forks**: 250 · **Open issues**: 592 · **Contributors**: 75
+- **Stars**: 3,458 · **Forks**: 250 · **Open issues**: 592 · **Contributors**: 75
 
 ## Totals (cumulative)
 
-- **Releases**: 45 · **Merged PRs**: 940 · **Open PRs**: 14 · **Closed issues**: 462 · **Open issues**: 130 · **Commits**: 1496
+- **Releases**: 45 · **Merged PRs**: 940 · **Open PRs**: 16 · **Closed issues**: 462 · **Open issues**: 130 · **Commits**: 1496
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 33 | 2 | 0 | 0 | 22 |
-| 90d | 2026-06-12 | 0 | 100 | 6 | 1 | 0 | 66 |
-| 360d | 2025-09-15 | 4 | 240 | 13 | 7 | 15 | 145 |
+| 30d | 2026-08-11 | 0 | 33 | 4 | 0 | 0 | 22 |
+| 90d | 2026-06-12 | 0 | 100 | 8 | 1 | 0 | 66 |
+| 360d | 2025-09-15 | 4 | 240 | 15 | 7 | 15 | 145 |
 
 ## Code size
 
@@ -68,8 +84,8 @@ Lowest-scoring checks:
 Install metadata for maven-mvnd lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `maven-mvnd` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/maven-mvnd.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/maven-mvnd.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T04:48:32Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:31:47Z._
