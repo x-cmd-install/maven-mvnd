@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 23613514,
       "digest": "sha256:371f008b91ff6ec54e960935974f3868ee7f18195a0ec874940d58353d8b2796",
-      "download_count": 471,
+      "download_count": 472,
       "created_at": "2026-05-27T20:34:39Z",
       "updated_at": "2026-05-27T20:34:40Z",
       "browser_download_url": "https://github.com/apache/maven-mvnd/releases/download/1.0.6/maven-mvnd-1.0.6-darwin-aarch64.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 24082771,
       "digest": "sha256:e1d8071e172740ecd6a9c380938de69aafc7622218818c56e4d526cc761723c0",
-      "download_count": 276,
+      "download_count": 280,
       "created_at": "2026-05-27T20:34:31Z",
       "updated_at": "2026-05-27T20:34:32Z",
       "browser_download_url": "https://github.com/apache/maven-mvnd/releases/download/1.0.6/maven-mvnd-1.0.6-linux-aarch64.tar.gz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 24295403,
       "digest": "sha256:88fd474fd3f21b33ec1e6a75950f6abbe493d63a5e2b429475f5230b3ee6cb24",
-      "download_count": 6254,
+      "download_count": 6307,
       "created_at": "2026-05-27T20:34:26Z",
       "updated_at": "2026-05-27T20:34:28Z",
       "browser_download_url": "https://github.com/apache/maven-mvnd/releases/download/1.0.6/maven-mvnd-1.0.6-linux-amd64.tar.gz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 24357360,
       "digest": "sha256:1a1c2ad0de53669c6d2bf64e2b6bcc7cb96f592c543230f00b4209002b19083c",
-      "download_count": 11507,
+      "download_count": 11522,
       "created_at": "2026-05-27T20:34:24Z",
       "updated_at": "2026-05-27T20:34:26Z",
       "browser_download_url": "https://github.com/apache/maven-mvnd/releases/download/1.0.6/maven-mvnd-1.0.6-linux-amd64.zip"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 23953366,
       "digest": "sha256:eb4fe5211c22fa756e7d7666e119d9397581d2d04c095a6c5b908e6986900f72",
-      "download_count": 174,
+      "download_count": 175,
       "created_at": "2026-05-27T20:34:43Z",
       "updated_at": "2026-05-27T20:34:45Z",
       "browser_download_url": "https://github.com/apache/maven-mvnd/releases/download/1.0.6/maven-mvnd-1.0.6-windows-amd64.tar.gz"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 24014139,
       "digest": "sha256:caba9e00736b8c0c62b9238ee75bc64294a0df42e45ecd513fee1914da3fd6cf",
-      "download_count": 1685,
+      "download_count": 1695,
       "created_at": "2026-05-27T20:34:41Z",
       "updated_at": "2026-05-27T20:34:42Z",
       "browser_download_url": "https://github.com/apache/maven-mvnd/releases/download/1.0.6/maven-mvnd-1.0.6-windows-amd64.zip"
