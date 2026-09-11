@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 3,458 · **Forks**: 250 · **Open issues**: 592 · **Contributors**: 75
+- **Stars**: 3,459 · **Forks**: 250 · **Open issues**: 592 · **Contributors**: 75
 
 ## Totals (cumulative)
 
@@ -91,4 +91,4 @@ Install metadata for maven-mvnd lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T00:10:01Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T04:55:14Z._
