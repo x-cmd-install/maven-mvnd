@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 0 | 36 | 1 | 0 | 0 | 28 |
-| last60d | 2026-07-15 | 0 | 66 | 3 | 0 | 0 | 55 |
-| 90d | 2026-06-15 | 0 | 107 | 5 | 1 | 0 | 72 |
-| last180d | 2026-03-17 | 2 | 153 | 7 | 3 | 1 | 104 |
-| 360d | 2025-09-18 | 4 | 243 | 12 | 7 | 15 | 151 |
-| last720d | 2024-09-23 | 6 | 426 | 13 | 41 | 31 | 287 |
+| 30d | 2026-08-15 | 0 | 34 | 1 | 0 | 0 | 21 |
+| last60d | 2026-07-16 | 0 | 66 | 3 | 0 | 0 | 55 |
+| 90d | 2026-06-16 | 0 | 103 | 5 | 1 | 0 | 66 |
+| last180d | 2026-03-18 | 2 | 153 | 7 | 3 | 0 | 101 |
+| 360d | 2025-09-19 | 4 | 241 | 12 | 7 | 14 | 147 |
+| last720d | 2024-09-24 | 6 | 425 | 13 | 41 | 30 | 287 |
 
 ## Release assets
 
@@ -91,4 +91,4 @@ Install metadata for maven-mvnd lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T04:57:06Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T05:09:52Z._
