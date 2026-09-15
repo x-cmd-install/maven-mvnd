@@ -26,13 +26,13 @@ x install maven-mvnd
 
 ## OpenSSF Scorecard 评分
 
-总评分: **4.1 / 10**
+总评分: **3.6 / 10**
 
 评分最低的几项:
 
 - **Packaging** (-1/10) — packaging workflow not detected
+- **Code-Review** (0/10) — Found 0/3 approved changesets -- score normalized to 0
 - **Binary-Artifacts** (0/10) — binaries present in source code
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
 ## 源代码
 
@@ -48,7 +48,7 @@ x install maven-mvnd
 
 ## 流行度
 
-- **Star**: 3,459 · **Fork**: 250 · **开放 issue**: 592 · **贡献者**: 75
+- **Star**: 3,458 · **Fork**: 250 · **开放 issue**: 592 · **贡献者**: 75
 
 ## 累计统计
 
@@ -58,12 +58,12 @@ x install maven-mvnd
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-15 | 0 | 34 | 1 | 0 | 0 | 21 |
-| last60d | 2026-07-16 | 0 | 66 | 3 | 0 | 0 | 55 |
-| 90d | 2026-06-16 | 0 | 103 | 5 | 1 | 0 | 66 |
-| last180d | 2026-03-18 | 2 | 153 | 7 | 3 | 0 | 101 |
-| 360d | 2025-09-19 | 4 | 241 | 12 | 7 | 14 | 147 |
-| last720d | 2024-09-24 | 6 | 425 | 13 | 41 | 30 | 287 |
+| 30d | 2026-08-16 | 0 | 34 | 1 | 0 | 0 | 21 |
+| last60d | 2026-07-17 | 0 | 66 | 3 | 0 | 0 | 55 |
+| 90d | 2026-06-17 | 0 | 101 | 5 | 1 | 0 | 66 |
+| last180d | 2026-03-19 | 2 | 150 | 6 | 3 | 0 | 101 |
+| 360d | 2025-09-20 | 4 | 241 | 12 | 7 | 14 | 147 |
+| last720d | 2024-09-25 | 6 | 425 | 13 | 41 | 29 | 287 |
 
 ## Release 资产
 
@@ -91,4 +91,4 @@ maven-mvnd 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/instal
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260914.yml` · 2026-09-14T05:09:53Z._
+_数据快照: `data/card/260915.yml` · 2026-09-15T05:12:10Z._
