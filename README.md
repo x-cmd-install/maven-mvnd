@@ -4,7 +4,7 @@
 
 Apache Maven Daemon
 
-![maven-mvnd](https://repo.x-cmd.io/maven-mvnd.svg)
+[![x-cmd/install — maven-mvnd Code Quality Monitoring Repo Card](https://repo.x-cmd.io/maven-mvnd.svg)](https://x-cmd.com/install/maven-mvnd)
 
 ## Install
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 38 | 2 | 0 | 0 | 25 |
-| last60d | 2026-07-20 | 0 | 73 | 4 | 0 | 0 | 59 |
-| 90d | 2026-06-20 | 0 | 105 | 6 | 1 | 0 | 70 |
-| last180d | 2026-03-22 | 1 | 157 | 7 | 3 | 0 | 105 |
-| 360d | 2025-09-23 | 3 | 244 | 13 | 7 | 13 | 151 |
-| last720d | 2024-09-28 | 6 | 432 | 14 | 40 | 28 | 291 |
+| 30d | 2026-08-21 | 0 | 35 | 2 | 0 | 0 | 16 |
+| last60d | 2026-07-22 | 0 | 72 | 4 | 0 | 0 | 59 |
+| 90d | 2026-06-22 | 0 | 103 | 6 | 1 | 0 | 65 |
+| last180d | 2026-03-24 | 1 | 157 | 6 | 3 | 0 | 102 |
+| 360d | 2025-09-25 | 3 | 244 | 13 | 7 | 13 | 150 |
+| last720d | 2024-09-30 | 6 | 432 | 14 | 40 | 28 | 291 |
 
 ## Release assets
 
@@ -91,4 +91,4 @@ Install metadata for maven-mvnd lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T05:07:15Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:08:58Z._
