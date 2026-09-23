@@ -4,7 +4,7 @@
 
 Apache Maven Daemon
 
-[![x-cmd/install — maven-mvnd Code Quality Monitoring Repo Card](https://repo.x-cmd.io/maven-mvnd.svg?lang=zh)](https://x-cmd.com/install/maven-mvnd)
+[![x-cmd/install — maven-mvnd Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/maven-mvnd.svg?lang=zh)](https://x-cmd.com/install/maven-mvnd)
 
 ## 安装
 
@@ -48,22 +48,22 @@ x install maven-mvnd
 
 ## 流行度
 
-- **Star**: 3,460 · **Fork**: 250 · **开放 issue**: 592 · **贡献者**: 75
+- **Star**: 3,460 · **Fork**: 250 · **开放 issue**: 594 · **贡献者**: 75
 
 ## 累计统计
 
-- **发布数**: 45 · **已合并 PR**: 958 · **开放 PR**: 15 · **已关闭 issue**: 462 · **开放 issue**: 130 · **提交数**: 1508
+- **发布数**: 45 · **已合并 PR**: 958 · **开放 PR**: 21 · **已关闭 issue**: 462 · **开放 issue**: 132 · **提交数**: 1508
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 39 | 3 | 0 | 0 | 18 |
-| last60d | 2026-07-24 | 0 | 76 | 5 | 0 | 0 | 61 |
-| 90d | 2026-06-24 | 0 | 104 | 7 | 1 | 0 | 67 |
-| last180d | 2026-03-26 | 1 | 161 | 7 | 3 | 0 | 104 |
-| 360d | 2025-09-27 | 3 | 246 | 14 | 7 | 13 | 152 |
-| last720d | 2024-10-02 | 6 | 435 | 15 | 40 | 28 | 293 |
+| 30d | 2026-08-24 | 0 | 33 | 9 | 0 | 2 | 18 |
+| last60d | 2026-07-25 | 0 | 76 | 11 | 0 | 2 | 61 |
+| 90d | 2026-06-25 | 0 | 100 | 12 | 1 | 2 | 67 |
+| last180d | 2026-03-27 | 1 | 161 | 13 | 2 | 2 | 104 |
+| 360d | 2025-09-28 | 3 | 246 | 20 | 7 | 15 | 152 |
+| last720d | 2024-10-03 | 6 | 432 | 21 | 40 | 30 | 290 |
 
 ## Release 资产
 
@@ -91,4 +91,4 @@ maven-mvnd 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/instal
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T05:08:41Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T05:08:55Z._

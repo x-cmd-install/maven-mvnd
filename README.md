@@ -4,7 +4,7 @@
 
 Apache Maven Daemon
 
-[![x-cmd/install — maven-mvnd Code Quality Monitoring Repo Card](https://repo.x-cmd.io/maven-mvnd.svg)](https://x-cmd.com/install/maven-mvnd)
+[![x-cmd/install — maven-mvnd Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/maven-mvnd.svg)](https://x-cmd.com/install/maven-mvnd)
 
 ## Install
 
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 3,460 · **Forks**: 250 · **Open issues**: 592 · **Contributors**: 75
+- **Stars**: 3,460 · **Forks**: 250 · **Open issues**: 594 · **Contributors**: 75
 
 ## Totals (cumulative)
 
-- **Releases**: 45 · **Merged PRs**: 958 · **Open PRs**: 15 · **Closed issues**: 462 · **Open issues**: 130 · **Commits**: 1508
+- **Releases**: 45 · **Merged PRs**: 958 · **Open PRs**: 21 · **Closed issues**: 462 · **Open issues**: 132 · **Commits**: 1508
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 39 | 3 | 0 | 0 | 18 |
-| last60d | 2026-07-24 | 0 | 76 | 5 | 0 | 0 | 61 |
-| 90d | 2026-06-24 | 0 | 104 | 7 | 1 | 0 | 67 |
-| last180d | 2026-03-26 | 1 | 161 | 7 | 3 | 0 | 104 |
-| 360d | 2025-09-27 | 3 | 246 | 14 | 7 | 13 | 152 |
-| last720d | 2024-10-02 | 6 | 435 | 15 | 40 | 28 | 293 |
+| 30d | 2026-08-24 | 0 | 33 | 9 | 0 | 2 | 18 |
+| last60d | 2026-07-25 | 0 | 76 | 11 | 0 | 2 | 61 |
+| 90d | 2026-06-25 | 0 | 100 | 12 | 1 | 2 | 67 |
+| last180d | 2026-03-27 | 1 | 161 | 13 | 2 | 2 | 104 |
+| 360d | 2025-09-28 | 3 | 246 | 20 | 7 | 15 | 152 |
+| last720d | 2024-10-03 | 6 | 432 | 21 | 40 | 30 | 290 |
 
 ## Release assets
 
@@ -91,4 +91,4 @@ Install metadata for maven-mvnd lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T05:08:40Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T05:08:54Z._
