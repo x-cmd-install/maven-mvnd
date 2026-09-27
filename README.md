@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 3,458 · **Forks**: 250 · **Open issues**: 595 · **Contributors**: 75
+- **Stars**: 3,459 · **Forks**: 250 · **Open issues**: 595 · **Contributors**: 75
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-27 | 0 | 31 | 7 | 0 | 3 | 20 |
-| last60d | 2026-07-28 | 0 | 79 | 8 | 0 | 3 | 63 |
-| 90d | 2026-06-28 | 0 | 103 | 10 | 1 | 3 | 69 |
-| last180d | 2026-03-30 | 1 | 161 | 11 | 2 | 3 | 106 |
-| 360d | 2025-10-01 | 3 | 249 | 18 | 7 | 16 | 154 |
-| last720d | 2024-10-06 | 6 | 434 | 19 | 40 | 30 | 292 |
+| 30d | 2026-08-28 | 0 | 31 | 7 | 0 | 3 | 18 |
+| last60d | 2026-07-29 | 0 | 79 | 8 | 0 | 3 | 39 |
+| 90d | 2026-06-29 | 0 | 99 | 10 | 1 | 3 | 66 |
+| last180d | 2026-03-31 | 1 | 161 | 11 | 2 | 3 | 103 |
+| 360d | 2025-10-02 | 3 | 249 | 18 | 7 | 16 | 152 |
+| last720d | 2024-10-07 | 6 | 433 | 19 | 40 | 30 | 292 |
 
 ## Release assets
 
@@ -91,4 +91,4 @@ Install metadata for maven-mvnd lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260926.yml` · 2026-09-26T05:04:31Z._
+_Snapshot: `data/card/260927.yml` · 2026-09-27T05:32:56Z._
