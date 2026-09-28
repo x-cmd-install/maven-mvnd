@@ -43,7 +43,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `1.0.6` (2026-05-30)
-- **Last commit**: 2026-09-25
+- **Last commit**: 2026-09-27
 - **Assets in release**: 12
 
 ## Popularity
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 45 · **Merged PRs**: 961 · **Open PRs**: 19 · **Closed issues**: 462 · **Open issues**: 133 · **Commits**: 1510
+- **Releases**: 45 · **Merged PRs**: 962 · **Open PRs**: 18 · **Closed issues**: 462 · **Open issues**: 133 · **Commits**: 1511
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-28 | 0 | 31 | 7 | 0 | 3 | 18 |
-| last60d | 2026-07-29 | 0 | 79 | 8 | 0 | 3 | 39 |
-| 90d | 2026-06-29 | 0 | 99 | 10 | 1 | 3 | 66 |
-| last180d | 2026-03-31 | 1 | 161 | 11 | 2 | 3 | 103 |
-| 360d | 2025-10-02 | 3 | 249 | 18 | 7 | 16 | 152 |
-| last720d | 2024-10-07 | 6 | 433 | 19 | 40 | 30 | 292 |
+| 30d | 2026-08-29 | 0 | 32 | 6 | 0 | 3 | 19 |
+| last60d | 2026-07-30 | 0 | 80 | 7 | 0 | 3 | 40 |
+| 90d | 2026-06-30 | 0 | 100 | 9 | 1 | 3 | 67 |
+| last180d | 2026-04-01 | 1 | 161 | 10 | 2 | 3 | 104 |
+| 360d | 2025-10-03 | 3 | 249 | 17 | 7 | 16 | 153 |
+| last720d | 2024-10-08 | 6 | 434 | 18 | 40 | 30 | 290 |
 
 ## Release assets
 
@@ -91,4 +91,4 @@ Install metadata for maven-mvnd lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260927.yml` · 2026-09-27T05:32:56Z._
+_Snapshot: `data/card/260928.yml` · 2026-09-28T05:32:27Z._
