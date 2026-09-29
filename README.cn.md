@@ -30,9 +30,9 @@ x install maven-mvnd
 
 评分最低的几项:
 
-- **Code-Review** (0/10) — Found 0/2 approved changesets -- score normalized to 0
+- **Packaging** (-1/10) — packaging workflow not detected
+- **Code-Review** (0/10) — Found 0/1 approved changesets -- score normalized to 0
 - **Binary-Artifacts** (0/10) — binaries present in source code
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
 ## 源代码
 
@@ -43,7 +43,7 @@ x install maven-mvnd
 ## 发布
 
 - **最新版本**: `1.0.6` (2026-05-30)
-- **最近提交**: 2026-09-27
+- **最近提交**: 2026-09-28
 - **Release 含资产**: 12 个
 
 ## 流行度
@@ -52,18 +52,18 @@ x install maven-mvnd
 
 ## 累计统计
 
-- **发布数**: 45 · **已合并 PR**: 962 · **开放 PR**: 18 · **已关闭 issue**: 462 · **开放 issue**: 133 · **提交数**: 1511
+- **发布数**: 45 · **已合并 PR**: 965 · **开放 PR**: 18 · **已关闭 issue**: 462 · **开放 issue**: 133 · **提交数**: 1513
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-29 | 0 | 32 | 6 | 0 | 3 | 19 |
-| last60d | 2026-07-30 | 0 | 80 | 7 | 0 | 3 | 40 |
-| 90d | 2026-06-30 | 0 | 100 | 9 | 1 | 3 | 67 |
-| last180d | 2026-04-01 | 1 | 161 | 10 | 2 | 3 | 104 |
-| 360d | 2025-10-03 | 3 | 249 | 17 | 7 | 16 | 153 |
-| last720d | 2024-10-08 | 6 | 434 | 18 | 40 | 30 | 290 |
+| 30d | 2026-08-30 | 0 | 35 | 6 | 0 | 3 | 21 |
+| last60d | 2026-07-31 | 0 | 83 | 7 | 0 | 3 | 42 |
+| 90d | 2026-07-01 | 0 | 100 | 9 | 1 | 3 | 69 |
+| last180d | 2026-04-02 | 1 | 164 | 10 | 2 | 3 | 106 |
+| 360d | 2025-10-04 | 3 | 252 | 17 | 7 | 16 | 155 |
+| last720d | 2024-10-09 | 6 | 436 | 18 | 39 | 30 | 292 |
 
 ## Release 资产
 
@@ -91,4 +91,4 @@ maven-mvnd 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/instal
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260928.yml` · 2026-09-28T05:32:28Z._
+_数据快照: `data/card/260929.yml` · 2026-09-29T05:52:30Z._
