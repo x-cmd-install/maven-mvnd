@@ -30,9 +30,9 @@ x install maven-mvnd
 
 评分最低的几项:
 
-- **Code-Review** (0/10) — Found 0/3 approved changesets -- score normalized to 0
 - **Packaging** (-1/10) — packaging workflow not detected
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **Code-Review** (0/10) — Found 0/3 approved changesets -- score normalized to 0
+- **Binary-Artifacts** (0/10) — binaries present in source code
 
 ## 源代码
 
@@ -43,27 +43,27 @@ x install maven-mvnd
 ## 发布
 
 - **最新版本**: `1.0.6` (2026-05-30)
-- **最近提交**: 2026-10-09
+- **最近提交**: 2026-10-13
 - **Release 含资产**: 12 个
 
 ## 流行度
 
-- **Star**: 3,457 · **Fork**: 251 · **开放 issue**: 596 · **贡献者**: 75
+- **Star**: 3,456 · **Fork**: 251 · **开放 issue**: 596 · **贡献者**: 75
 
 ## 累计统计
 
-- **发布数**: 45 · **已合并 PR**: 974 · **开放 PR**: 19 · **已关闭 issue**: 463 · **开放 issue**: 133 · **提交数**: 1520
+- **发布数**: 45 · **已合并 PR**: 976 · **开放 PR**: 20 · **已关闭 issue**: 463 · **开放 issue**: 133 · **提交数**: 1521
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-12 | 0 | 27 | 7 | 1 | 3 | 14 |
-| last60d | 2026-08-13 | 0 | 67 | 7 | 1 | 3 | 39 |
-| 90d | 2026-07-14 | 0 | 93 | 9 | 1 | 3 | 73 |
-| last180d | 2026-04-15 | 1 | 169 | 11 | 3 | 3 | 109 |
-| 360d | 2025-10-17 | 3 | 257 | 18 | 7 | 16 | 161 |
-| last720d | 2024-10-22 | 6 | 432 | 19 | 38 | 30 | 288 |
+| 30d | 2026-09-13 | 0 | 29 | 8 | 1 | 3 | 15 |
+| last60d | 2026-08-14 | 0 | 65 | 8 | 1 | 3 | 40 |
+| 90d | 2026-07-15 | 0 | 95 | 10 | 1 | 3 | 74 |
+| last180d | 2026-04-16 | 1 | 171 | 12 | 3 | 3 | 110 |
+| 360d | 2025-10-18 | 3 | 259 | 19 | 7 | 16 | 162 |
+| last720d | 2024-10-23 | 6 | 432 | 20 | 38 | 30 | 289 |
 
 ## Release 资产
 
@@ -91,4 +91,4 @@ maven-mvnd 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/instal
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261012.yml` · 2026-10-12T06:15:11Z._
+_数据快照: `data/card/261013.yml` · 2026-10-13T07:03:36Z._

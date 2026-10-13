@@ -30,9 +30,9 @@ Overall score: **3.6 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (0/10) — Found 0/3 approved changesets -- score normalized to 0
 - **Packaging** (-1/10) — packaging workflow not detected
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **Code-Review** (0/10) — Found 0/3 approved changesets -- score normalized to 0
+- **Binary-Artifacts** (0/10) — binaries present in source code
 
 ## Source
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `1.0.6` (2026-05-30)
-- **Last commit**: 2026-10-09
+- **Last commit**: 2026-10-13
 - **Assets in release**: 12
 
 ## Popularity
 
-- **Stars**: 3,457 · **Forks**: 251 · **Open issues**: 596 · **Contributors**: 75
+- **Stars**: 3,456 · **Forks**: 251 · **Open issues**: 596 · **Contributors**: 75
 
 ## Totals (cumulative)
 
-- **Releases**: 45 · **Merged PRs**: 974 · **Open PRs**: 19 · **Closed issues**: 463 · **Open issues**: 133 · **Commits**: 1520
+- **Releases**: 45 · **Merged PRs**: 976 · **Open PRs**: 20 · **Closed issues**: 463 · **Open issues**: 133 · **Commits**: 1521
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-12 | 0 | 27 | 7 | 1 | 3 | 14 |
-| last60d | 2026-08-13 | 0 | 67 | 7 | 1 | 3 | 39 |
-| 90d | 2026-07-14 | 0 | 93 | 9 | 1 | 3 | 73 |
-| last180d | 2026-04-15 | 1 | 169 | 11 | 3 | 3 | 109 |
-| 360d | 2025-10-17 | 3 | 257 | 18 | 7 | 16 | 161 |
-| last720d | 2024-10-22 | 6 | 432 | 19 | 38 | 30 | 288 |
+| 30d | 2026-09-13 | 0 | 29 | 8 | 1 | 3 | 15 |
+| last60d | 2026-08-14 | 0 | 65 | 8 | 1 | 3 | 40 |
+| 90d | 2026-07-15 | 0 | 95 | 10 | 1 | 3 | 74 |
+| last180d | 2026-04-16 | 1 | 171 | 12 | 3 | 3 | 110 |
+| 360d | 2025-10-18 | 3 | 259 | 19 | 7 | 16 | 162 |
+| last720d | 2024-10-23 | 6 | 432 | 20 | 38 | 30 | 289 |
 
 ## Release assets
 
@@ -91,4 +91,4 @@ Install metadata for maven-mvnd lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261012.yml` · 2026-10-12T06:15:10Z._
+_Snapshot: `data/card/261013.yml` · 2026-10-13T07:03:35Z._
