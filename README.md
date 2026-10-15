@@ -14,12 +14,12 @@ x install maven-mvnd
 
 ## Code insight
 
-Total: **20,697** lines of code across **296** files in the top 5 languages.
+Total: **20,557** lines of code across **295** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Java | 14,536 | 4,605 | 2,380 | 200 |
-| Xml | 3,941 | 1,428 | 402 | 83 |
+| Java | 14,524 | 4,587 | 2,377 | 199 |
+| Xml | 3,916 | 1,435 | 403 | 83 |
 | Sh | 620 | 245 | 129 | 9 |
 | Bash | 516 | 134 | 64 | 2 |
 | Batch | 353 | 0 | 63 | 2 |
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `1.0.6` (2026-05-30)
-- **Last commit**: 2026-10-13
+- **Last commit**: 2026-10-14
 - **Assets in release**: 12
 
 ## Popularity
 
-- **Stars**: 3,455 · **Forks**: 251 · **Open issues**: 598 · **Contributors**: 75
+- **Stars**: 3,455 · **Forks**: 251 · **Open issues**: 600 · **Contributors**: 75
 
 ## Totals (cumulative)
 
-- **Releases**: 45 · **Merged PRs**: 984 · **Open PRs**: 21 · **Closed issues**: 463 · **Open issues**: 135 · **Commits**: 1525
+- **Releases**: 45 · **Merged PRs**: 993 · **Open PRs**: 24 · **Closed issues**: 464 · **Open issues**: 136 · **Commits**: 1530
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-14 | 0 | 35 | 11 | 1 | 5 | 19 |
-| last60d | 2026-08-15 | 0 | 69 | 11 | 1 | 5 | 44 |
-| 90d | 2026-07-16 | 0 | 101 | 13 | 1 | 5 | 78 |
-| last180d | 2026-04-17 | 1 | 177 | 14 | 3 | 5 | 114 |
-| 360d | 2025-10-19 | 3 | 267 | 20 | 7 | 18 | 166 |
-| last720d | 2024-10-24 | 6 | 440 | 21 | 38 | 32 | 293 |
+| 30d | 2026-09-15 | 0 | 39 | 14 | 2 | 6 | 24 |
+| last60d | 2026-08-16 | 0 | 78 | 14 | 2 | 6 | 49 |
+| 90d | 2026-07-17 | 0 | 110 | 16 | 2 | 6 | 83 |
+| last180d | 2026-04-18 | 1 | 186 | 17 | 4 | 6 | 119 |
+| 360d | 2025-10-20 | 3 | 274 | 23 | 8 | 19 | 171 |
+| last720d | 2024-10-25 | 6 | 449 | 24 | 39 | 33 | 298 |
 
 ## Release assets
 
@@ -91,4 +91,4 @@ Install metadata for maven-mvnd lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261014.yml` · 2026-10-14T04:59:15Z._
+_Snapshot: `data/card/261015.yml` · 2026-10-15T04:42:36Z._
