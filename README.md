@@ -30,8 +30,8 @@ Overall score: **3.6 / 10**
 
 Lowest-scoring checks:
 
+- **Code-Review** (0/10) — Found 1/21 approved changesets -- score normalized to 0
 - **Packaging** (-1/10) — packaging workflow not detected
-- **Code-Review** (0/10) — Found 0/3 approved changesets -- score normalized to 0
 - **Binary-Artifacts** (0/10) — binaries present in source code
 
 ## Source
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `1.0.6` (2026-05-30)
-- **Last commit**: 2026-10-19
+- **Last commit**: 2026-10-20
 - **Assets in release**: 12
 
 ## Popularity
 
-- **Stars**: 3,455 · **Forks**: 252 · **Open issues**: 600 · **Contributors**: 75
+- **Stars**: 3,454 · **Forks**: 252 · **Open issues**: 600 · **Contributors**: 75
 
 ## Totals (cumulative)
 
-- **Releases**: 45 · **Merged PRs**: 1018 · **Open PRs**: 17 · **Closed issues**: 521 · **Open issues**: 79 · **Commits**: 1549
+- **Releases**: 45 · **Merged PRs**: 1020 · **Open PRs**: 15 · **Closed issues**: 521 · **Open issues**: 79 · **Commits**: 1550
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-20 | 0 | 61 | 7 | 4 | 4 | 40 |
-| last60d | 2026-08-21 | 0 | 97 | 7 | 4 | 4 | 62 |
-| 90d | 2026-07-22 | 0 | 134 | 9 | 4 | 4 | 102 |
-| last180d | 2026-04-23 | 1 | 202 | 10 | 6 | 4 | 135 |
-| 360d | 2025-10-25 | 3 | 297 | 16 | 12 | 15 | 188 |
-| last720d | 2024-10-30 | 6 | 471 | 17 | 47 | 24 | 317 |
+| 30d | 2026-09-21 | 0 | 58 | 5 | 4 | 4 | 41 |
+| last60d | 2026-08-22 | 0 | 99 | 5 | 4 | 4 | 63 |
+| 90d | 2026-07-23 | 0 | 136 | 7 | 4 | 4 | 103 |
+| last180d | 2026-04-24 | 1 | 204 | 8 | 6 | 4 | 136 |
+| 360d | 2025-10-26 | 3 | 299 | 14 | 12 | 15 | 189 |
+| last720d | 2024-10-31 | 6 | 473 | 15 | 47 | 24 | 318 |
 
 ## Release assets
 
@@ -91,4 +91,4 @@ Install metadata for maven-mvnd lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261020.yml` · 2026-10-20T04:55:28Z._
+_Snapshot: `data/card/261021.yml` · 2026-10-21T04:50:44Z._
