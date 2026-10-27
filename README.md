@@ -14,11 +14,11 @@ x install maven-mvnd
 
 ## Code insight
 
-Total: **21,127** lines of code across **302** files in the top 5 languages.
+Total: **21,150** lines of code across **302** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Java | 15,072 | 4,889 | 2,446 | 206 |
+| Java | 15,095 | 4,893 | 2,447 | 206 |
 | Xml | 3,931 | 1,680 | 403 | 83 |
 | Sh | 620 | 260 | 129 | 9 |
 | Bash | 516 | 140 | 64 | 2 |
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `1.0.6` (2026-05-30)
-- **Last commit**: 2026-10-25
+- **Last commit**: 2026-10-26
 - **Assets in release**: 12
 
 ## Popularity
 
-- **Stars**: 3,454 · **Forks**: 252 · **Open issues**: 600 · **Contributors**: 75
+- **Stars**: 3,453 · **Forks**: 252 · **Open issues**: 600 · **Contributors**: 75
 
 ## Totals (cumulative)
 
-- **Releases**: 45 · **Merged PRs**: 1033 · **Open PRs**: 18 · **Closed issues**: 523 · **Open issues**: 77 · **Commits**: 1559
+- **Releases**: 45 · **Merged PRs**: 1035 · **Open PRs**: 19 · **Closed issues**: 524 · **Open issues**: 76 · **Commits**: 1560
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-26 | 0 | 65 | 9 | 2 | 3 | 44 |
-| last60d | 2026-08-27 | 0 | 101 | 9 | 4 | 4 | 68 |
-| 90d | 2026-07-28 | 0 | 149 | 10 | 4 | 4 | 103 |
-| last180d | 2026-04-29 | 1 | 216 | 12 | 6 | 4 | 142 |
-| 360d | 2025-10-31 | 3 | 307 | 17 | 14 | 13 | 198 |
-| last720d | 2024-11-05 | 6 | 486 | 18 | 49 | 22 | 327 |
+| 30d | 2026-09-27 | 0 | 67 | 10 | 2 | 3 | 45 |
+| last60d | 2026-08-28 | 0 | 103 | 10 | 4 | 4 | 69 |
+| 90d | 2026-07-29 | 0 | 151 | 11 | 4 | 4 | 104 |
+| last180d | 2026-04-30 | 1 | 218 | 13 | 6 | 4 | 143 |
+| 360d | 2025-11-01 | 3 | 309 | 18 | 15 | 12 | 199 |
+| last720d | 2024-11-06 | 6 | 488 | 19 | 50 | 21 | 328 |
 
 ## Release assets
 
@@ -91,4 +91,4 @@ Install metadata for maven-mvnd lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261026.yml` · 2026-10-26T04:48:22Z._
+_Snapshot: `data/card/261027.yml` · 2026-10-27T05:11:11Z._
