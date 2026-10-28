@@ -18,7 +18,7 @@ Total: **21,150** lines of code across **302** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Java | 15,095 | 4,893 | 2,447 | 206 |
+| Java | 15,095 | 4,899 | 2,448 | 206 |
 | Xml | 3,931 | 1,680 | 403 | 83 |
 | Sh | 620 | 260 | 129 | 9 |
 | Bash | 516 | 140 | 64 | 2 |
@@ -30,7 +30,7 @@ Overall score: **3.6 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (0/10) — Found 1/21 approved changesets -- score normalized to 0
+- **Code-Review** (0/10) — Found 0/20 approved changesets -- score normalized to 0
 - **Packaging** (-1/10) — packaging workflow not detected
 - **Binary-Artifacts** (0/10) — binaries present in source code
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `1.0.6` (2026-05-30)
-- **Last commit**: 2026-10-26
+- **Last commit**: 2026-10-28
 - **Assets in release**: 12
 
 ## Popularity
 
-- **Stars**: 3,453 · **Forks**: 252 · **Open issues**: 600 · **Contributors**: 75
+- **Stars**: 3,454 · **Forks**: 254 · **Open issues**: 601 · **Contributors**: 75
 
 ## Totals (cumulative)
 
-- **Releases**: 45 · **Merged PRs**: 1035 · **Open PRs**: 19 · **Closed issues**: 524 · **Open issues**: 76 · **Commits**: 1560
+- **Releases**: 45 · **Merged PRs**: 1041 · **Open PRs**: 15 · **Closed issues**: 525 · **Open issues**: 76 · **Commits**: 1564
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-27 | 0 | 67 | 10 | 2 | 3 | 45 |
-| last60d | 2026-08-28 | 0 | 103 | 10 | 4 | 4 | 69 |
-| 90d | 2026-07-29 | 0 | 151 | 11 | 4 | 4 | 104 |
-| last180d | 2026-04-30 | 1 | 218 | 13 | 6 | 4 | 143 |
-| 360d | 2025-11-01 | 3 | 309 | 18 | 15 | 12 | 199 |
-| last720d | 2024-11-06 | 6 | 488 | 19 | 50 | 21 | 328 |
+| 30d | 2026-09-28 | 0 | 70 | 6 | 2 | 4 | 49 |
+| last60d | 2026-08-29 | 0 | 109 | 6 | 5 | 4 | 73 |
+| 90d | 2026-07-30 | 0 | 157 | 7 | 5 | 4 | 108 |
+| last180d | 2026-05-01 | 1 | 224 | 9 | 7 | 4 | 147 |
+| 360d | 2025-11-02 | 3 | 315 | 14 | 16 | 12 | 203 |
+| last720d | 2024-11-07 | 6 | 491 | 15 | 51 | 21 | 332 |
 
 ## Release assets
 
@@ -91,4 +91,4 @@ Install metadata for maven-mvnd lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261027.yml` · 2026-10-27T05:11:11Z._
+_Snapshot: `data/card/261028.yml` · 2026-10-28T05:51:30Z._
