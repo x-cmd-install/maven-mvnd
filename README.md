@@ -30,9 +30,9 @@ Overall score: **3.6 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (0/10) — Found 0/20 approved changesets -- score normalized to 0
-- **Packaging** (-1/10) — packaging workflow not detected
 - **Binary-Artifacts** (0/10) — binaries present in source code
+- **Code-Review** (0/10) — Found 1/17 approved changesets -- score normalized to 0
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
 ## Source
 
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 45 · **Merged PRs**: 1056 · **Open PRs**: 16 · **Closed issues**: 525 · **Open issues**: 77 · **Commits**: 1578
+- **Releases**: 45 · **Merged PRs**: 1056 · **Open PRs**: 17 · **Closed issues**: 525 · **Open issues**: 77 · **Commits**: 1578
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-05 | 0 | 78 | 5 | 2 | 5 | 58 |
-| last60d | 2026-09-05 | 0 | 119 | 7 | 5 | 5 | 82 |
-| 90d | 2026-08-06 | 0 | 153 | 7 | 5 | 5 | 105 |
-| last180d | 2026-05-08 | 1 | 235 | 10 | 7 | 5 | 159 |
-| 360d | 2025-11-09 | 3 | 330 | 15 | 14 | 12 | 209 |
-| last720d | 2024-11-14 | 6 | 497 | 16 | 51 | 22 | 334 |
+| 30d | 2026-10-06 | 0 | 78 | 6 | 2 | 5 | 58 |
+| last60d | 2026-09-06 | 0 | 119 | 8 | 5 | 5 | 82 |
+| 90d | 2026-08-07 | 0 | 153 | 8 | 5 | 5 | 105 |
+| last180d | 2026-05-09 | 1 | 235 | 11 | 7 | 5 | 159 |
+| 360d | 2025-11-10 | 3 | 324 | 16 | 14 | 11 | 209 |
+| last720d | 2024-11-15 | 6 | 497 | 17 | 51 | 22 | 334 |
 
 ## Release assets
 
@@ -91,4 +91,4 @@ Install metadata for maven-mvnd lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261104.yml` · 2026-11-04T06:26:52Z._
+_Snapshot: `data/card/261105.yml` · 2026-11-05T06:55:01Z._
