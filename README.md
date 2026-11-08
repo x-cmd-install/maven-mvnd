@@ -14,7 +14,7 @@ x install maven-mvnd
 
 ## Code insight
 
-Total: **21,304** lines of code across **301** files in the top 5 languages.
+Total: **21,286** lines of code across **301** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `1.0.6` (2026-05-30)
-- **Last commit**: 2026-11-06
+- **Last commit**: 2026-11-08
 - **Assets in release**: 12
 
 ## Popularity
 
-- **Stars**: 3,452 · **Forks**: 252 · **Open issues**: 602 · **Contributors**: 76
+- **Stars**: 3,453 · **Forks**: 253 · **Open issues**: 602 · **Contributors**: 76
 
 ## Totals (cumulative)
 
-- **Releases**: 45 · **Merged PRs**: 1062 · **Open PRs**: 24 · **Closed issues**: 526 · **Open issues**: 76 · **Commits**: 1582
+- **Releases**: 45 · **Merged PRs**: 1064 · **Open PRs**: 22 · **Closed issues**: 527 · **Open issues**: 75 · **Commits**: 1583
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-08 | 0 | 84 | 11 | 2 | 4 | 62 |
-| last60d | 2026-09-08 | 0 | 120 | 15 | 5 | 5 | 86 |
-| 90d | 2026-08-09 | 0 | 157 | 15 | 5 | 5 | 109 |
-| last180d | 2026-05-11 | 1 | 239 | 18 | 7 | 5 | 163 |
-| 360d | 2025-11-12 | 3 | 326 | 23 | 14 | 11 | 213 |
-| last720d | 2024-11-17 | 6 | 503 | 24 | 52 | 21 | 338 |
+| 30d | 2026-10-09 | 0 | 85 | 9 | 3 | 3 | 49 |
+| last60d | 2026-09-09 | 0 | 121 | 13 | 6 | 4 | 81 |
+| 90d | 2026-08-10 | 0 | 155 | 13 | 6 | 4 | 105 |
+| last180d | 2026-05-12 | 1 | 241 | 16 | 8 | 4 | 163 |
+| 360d | 2025-11-13 | 3 | 328 | 21 | 15 | 10 | 213 |
+| last720d | 2024-11-18 | 6 | 504 | 22 | 53 | 20 | 339 |
 
 ## Release assets
 
@@ -91,4 +91,4 @@ Install metadata for maven-mvnd lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261107.yml` · 2026-11-07T06:13:54Z._
+_Snapshot: `data/card/261108.yml` · 2026-11-08T06:08:48Z._
