@@ -26,13 +26,13 @@ Total: **21,286** lines of code across **301** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **3.6 / 10**
+Overall score: **3.7 / 10**
 
 Lowest-scoring checks:
 
-- **Binary-Artifacts** (0/10) — binaries present in source code
-- **Code-Review** (0/10) — Found 1/17 approved changesets -- score normalized to 0
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **Code-Review** (0/10) — Found 1/14 approved changesets -- score normalized to 0
+- **Binary-Artifacts** (1/10) — binaries present in source code
+- **Packaging** (-1/10) — packaging workflow not detected
 
 ## Source
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `1.0.6` (2026-05-30)
-- **Last commit**: 2026-11-08
+- **Last commit**: 2026-11-09
 - **Assets in release**: 12
 
 ## Popularity
 
-- **Stars**: 3,453 · **Forks**: 253 · **Open issues**: 603 · **Contributors**: 76
+- **Stars**: 3,453 · **Forks**: 252 · **Open issues**: 603 · **Contributors**: 76
 
 ## Totals (cumulative)
 
-- **Releases**: 45 · **Merged PRs**: 1064 · **Open PRs**: 23 · **Closed issues**: 527 · **Open issues**: 76 · **Commits**: 1583
+- **Releases**: 45 · **Merged PRs**: 1067 · **Open PRs**: 23 · **Closed issues**: 528 · **Open issues**: 75 · **Commits**: 1586
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-10 | 0 | 85 | 10 | 3 | 4 | 49 |
-| last60d | 2026-09-10 | 0 | 119 | 14 | 6 | 5 | 81 |
-| 90d | 2026-08-11 | 0 | 155 | 14 | 6 | 5 | 105 |
-| last180d | 2026-05-13 | 1 | 241 | 17 | 8 | 5 | 163 |
-| 360d | 2025-11-14 | 3 | 327 | 22 | 15 | 11 | 213 |
-| last720d | 2024-11-19 | 6 | 504 | 23 | 52 | 21 | 339 |
+| 30d | 2026-10-11 | 0 | 88 | 10 | 4 | 3 | 52 |
+| last60d | 2026-09-11 | 0 | 118 | 14 | 7 | 4 | 84 |
+| 90d | 2026-08-12 | 0 | 158 | 14 | 7 | 4 | 108 |
+| last180d | 2026-05-14 | 1 | 244 | 17 | 9 | 4 | 166 |
+| 360d | 2025-11-15 | 3 | 330 | 22 | 16 | 10 | 216 |
+| last720d | 2024-11-20 | 6 | 507 | 23 | 51 | 20 | 340 |
 
 ## Release assets
 
@@ -91,4 +91,4 @@ Install metadata for maven-mvnd lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261109.yml` · 2026-11-09T06:28:27Z._
+_Snapshot: `data/card/261110.yml` · 2026-11-10T07:23:35Z._
