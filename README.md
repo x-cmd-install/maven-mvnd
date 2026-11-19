@@ -26,13 +26,13 @@ Total: **21,508** lines of code across **301** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **3.7 / 10**
+Overall score: **3.8 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (0/10) — Found 1/14 approved changesets -- score normalized to 0
-- **Binary-Artifacts** (1/10) — binaries present in source code
+- **Code-Review** (1/10) — Found 1/9 approved changesets -- score normalized to 1
 - **Packaging** (-1/10) — packaging workflow not detected
+- **Binary-Artifacts** (1/10) — binaries present in source code
 
 ## Source
 
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 3,450 · **Forks**: 255 · **Open issues**: 604 · **Contributors**: 76
+- **Stars**: 3,449 · **Forks**: 255 · **Open issues**: 604 · **Contributors**: 76
 
 ## Totals (cumulative)
 
-- **Releases**: 45 · **Merged PRs**: 1096 · **Open PRs**: 14 · **Closed issues**: 531 · **Open issues**: 73 · **Commits**: 1598
+- **Releases**: 45 · **Merged PRs**: 1097 · **Open PRs**: 14 · **Closed issues**: 531 · **Open issues**: 73 · **Commits**: 1598
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-18 | 0 | 81 | 4 | 1 | 3 | 48 |
-| last60d | 2026-09-18 | 0 | 139 | 5 | 8 | 4 | 89 |
-| 90d | 2026-08-19 | 0 | 178 | 5 | 8 | 4 | 115 |
-| last180d | 2026-05-21 | 1 | 268 | 8 | 9 | 4 | 174 |
-| 360d | 2025-11-22 | 3 | 357 | 13 | 18 | 8 | 223 |
-| last720d | 2024-11-27 | 6 | 533 | 14 | 50 | 19 | 343 |
+| 30d | 2026-10-20 | 0 | 77 | 4 | 1 | 3 | 48 |
+| last60d | 2026-09-20 | 0 | 140 | 5 | 8 | 4 | 89 |
+| 90d | 2026-08-21 | 0 | 176 | 5 | 8 | 4 | 115 |
+| last180d | 2026-05-23 | 1 | 268 | 8 | 9 | 4 | 174 |
+| 360d | 2025-11-24 | 3 | 357 | 13 | 18 | 8 | 223 |
+| last720d | 2024-11-29 | 6 | 534 | 14 | 49 | 19 | 343 |
 
 ## Release assets
 
@@ -91,4 +91,4 @@ Install metadata for maven-mvnd lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261117.yml` · 2026-11-17T09:11:24Z._
+_Snapshot: `data/card/261119.yml` · 2026-11-19T08:52:59Z._

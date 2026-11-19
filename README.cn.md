@@ -26,13 +26,13 @@ x install maven-mvnd
 
 ## OpenSSF Scorecard 评分
 
-总评分: **3.7 / 10**
+总评分: **3.8 / 10**
 
 评分最低的几项:
 
-- **Code-Review** (0/10) — Found 1/14 approved changesets -- score normalized to 0
-- **Binary-Artifacts** (1/10) — binaries present in source code
+- **Code-Review** (1/10) — Found 1/9 approved changesets -- score normalized to 1
 - **Packaging** (-1/10) — packaging workflow not detected
+- **Binary-Artifacts** (1/10) — binaries present in source code
 
 ## 源代码
 
@@ -48,22 +48,22 @@ x install maven-mvnd
 
 ## 流行度
 
-- **Star**: 3,450 · **Fork**: 255 · **开放 issue**: 604 · **贡献者**: 76
+- **Star**: 3,449 · **Fork**: 255 · **开放 issue**: 604 · **贡献者**: 76
 
 ## 累计统计
 
-- **发布数**: 45 · **已合并 PR**: 1096 · **开放 PR**: 14 · **已关闭 issue**: 531 · **开放 issue**: 73 · **提交数**: 1598
+- **发布数**: 45 · **已合并 PR**: 1097 · **开放 PR**: 14 · **已关闭 issue**: 531 · **开放 issue**: 73 · **提交数**: 1598
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-18 | 0 | 81 | 4 | 1 | 3 | 48 |
-| last60d | 2026-09-18 | 0 | 139 | 5 | 8 | 4 | 89 |
-| 90d | 2026-08-19 | 0 | 178 | 5 | 8 | 4 | 115 |
-| last180d | 2026-05-21 | 1 | 268 | 8 | 9 | 4 | 174 |
-| 360d | 2025-11-22 | 3 | 357 | 13 | 18 | 8 | 223 |
-| last720d | 2024-11-27 | 6 | 533 | 14 | 50 | 19 | 343 |
+| 30d | 2026-10-20 | 0 | 77 | 4 | 1 | 3 | 48 |
+| last60d | 2026-09-20 | 0 | 140 | 5 | 8 | 4 | 89 |
+| 90d | 2026-08-21 | 0 | 176 | 5 | 8 | 4 | 115 |
+| last180d | 2026-05-23 | 1 | 268 | 8 | 9 | 4 | 174 |
+| 360d | 2025-11-24 | 3 | 357 | 13 | 18 | 8 | 223 |
+| last720d | 2024-11-29 | 6 | 534 | 14 | 49 | 19 | 343 |
 
 ## Release 资产
 
@@ -91,4 +91,4 @@ maven-mvnd 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/instal
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261117.yml` · 2026-11-17T09:11:25Z._
+_数据快照: `data/card/261119.yml` · 2026-11-19T08:53:00Z._
