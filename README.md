@@ -26,11 +26,11 @@ Total: **21,508** lines of code across **301** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **3.8 / 10**
+Overall score: **3.7 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (1/10) — Found 1/9 approved changesets -- score normalized to 1
+- **Code-Review** (0/10) — Found 0/7 approved changesets -- score normalized to 0
 - **Packaging** (-1/10) — packaging workflow not detected
 - **Binary-Artifacts** (1/10) — binaries present in source code
 
@@ -43,7 +43,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `1.0.6` (2026-05-30)
-- **Last commit**: 2026-11-20
+- **Last commit**: 2026-11-23
 - **Assets in release**: 12
 
 ## Popularity
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 45 · **Merged PRs**: 1099 · **Open PRs**: 14 · **Closed issues**: 531 · **Open issues**: 73 · **Commits**: 1599
+- **Releases**: 45 · **Merged PRs**: 1107 · **Open PRs**: 15 · **Closed issues**: 531 · **Open issues**: 73 · **Commits**: 1603
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-24 | 0 | 74 | 4 | 1 | 3 | 0 |
-| last60d | 2026-09-24 | 0 | 132 | 5 | 6 | 4 | 0 |
-| 90d | 2026-08-25 | 0 | 172 | 5 | 8 | 4 | 0 |
-| last180d | 2026-05-27 | 1 | 267 | 8 | 9 | 4 | 0 |
-| 360d | 2025-11-28 | 3 | 356 | 13 | 18 | 8 | 0 |
-| last720d | 2024-12-03 | 5 | 536 | 14 | 49 | 19 | 344 |
+| 30d | 2026-10-25 | 0 | 72 | 7 | 1 | 3 | 31 |
+| last60d | 2026-09-25 | 0 | 138 | 7 | 5 | 4 | 88 |
+| 90d | 2026-08-26 | 0 | 179 | 7 | 8 | 4 | 113 |
+| last180d | 2026-05-28 | 1 | 272 | 10 | 9 | 4 | 179 |
+| 360d | 2025-11-29 | 3 | 364 | 14 | 18 | 8 | 226 |
+| last720d | 2024-12-04 | 5 | 541 | 15 | 49 | 19 | 348 |
 
 ## Release assets
 
@@ -91,4 +91,4 @@ Install metadata for maven-mvnd lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261123.yml` · 2026-11-23T08:15:50Z._
+_Snapshot: `data/card/261124.yml` · 2026-11-24T10:59:26Z._
